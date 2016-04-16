@@ -8,7 +8,7 @@ These are very interesting links, filled with environmental data and information
 # Table of contents
 
 * [Biodiversity](#biodiversity)
-* [Waste Management](#waste_management)
+* [Waste Management](#wastemanagement)
 
 
 
@@ -16,11 +16,11 @@ These are very interesting links, filled with environmental data and information
 ## Tree Biodiversity
 
 
-Image <width="1500"/> | Description | Location
------------|-------------|-------------
-![TiliaCordata](https://upload.wikimedia.org/wikipedia/commons/8/88/Tilia_cordata_60.jpg)<width="150"/>| Tree of the year | http://www.stadt-muenster.de/umwelt/baeume/baum-des-jahres.html
-![oak](https://upload.wikimedia.org/wikipedia/commons/e/e6/Keeler_Oak_Tree_-_distance_photo,_May_2013.jpg)| Common trees in Münster,  Common tree species here are the |(http://www.stadt-muenster.de/umwelt/baeume/stadtbaeume.html) Linde (24%), oak (21%), maple (14%), hornbeam (8%), plane (5%).
-![interactivetreemap](images/treesmunster.jpg)|Münster's important trees interactive map|http://geo.stadt-muenster.de/webgis2/frames/index.php?PHPSESSID=b6c53b7ac9d4af705616d2bc85de9f30&gui_id=Umweltkataster, http://www.muenster.de/stadt/umwelt/schutzgebiete_naturdenkmale.html)
+Image <width="1500"/> | Description
+-----------|-------------|
+![TiliaCordata](https://upload.wikimedia.org/wikipedia/commons/8/88/Tilia_cordata_60.jpg)<width="150"/> | [Tree of the year](http://www.stadt-muenster.de/umwelt/baeume/baum-des-jahres.html)
+![oak](https://upload.wikimedia.org/wikipedia/commons/e/e6/Keeler_Oak_Tree_-_distance_photo,_May_2013.jpg)|[Common trees in Münster](http://www.stadt-muenster.de/umwelt/baeume/stadtbaeume.html) Linde (24%), oak (21%), maple (14%), hornbeam (8%), plane (5%).
+![interactivetreemap](images/treesmunster.jpg)|[Tree's Location map](http://geo.stadt-muenster.de/webgis2/frames/index.php?PHPSESSID=b6c53b7ac9d4af705616d2bc85de9f30&gui_id=Umweltkataster),[Office of green space, the environment and sustainability](http://www.muenster.de/stadt/umwelt/schutzgebiete_naturdenkmale.html)
 
 
 
