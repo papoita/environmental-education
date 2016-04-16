@@ -9,6 +9,7 @@ These are very interesting links, filled with environmental data and information
 
 * [Biodiversity](#biodiversity)
 * [Waste Management](#wastemanagement)
+* [Green City](#green-city)
 
 
 
@@ -16,11 +17,12 @@ These are very interesting links, filled with environmental data and information
 ## Tree Biodiversity
 
 
-Image <width="1500"/> | Description
+Preview <width="1500"/> | Description
 -----------|-------------|
-![TiliaCordata](https://upload.wikimedia.org/wikipedia/commons/8/88/Tilia_cordata_60.jpg)<width="150"/> | [Tree of the year](http://www.stadt-muenster.de/umwelt/baeume/baum-des-jahres.html)
-![oak](https://upload.wikimedia.org/wikipedia/commons/e/e6/Keeler_Oak_Tree_-_distance_photo,_May_2013.jpg)|[Common trees in Münster](http://www.stadt-muenster.de/umwelt/baeume/stadtbaeume.html) Linde (24%), oak (21%), maple (14%), hornbeam (8%), plane (5%).
+![TiliaCordata](images/tilia.png)<width="150"/> | [Tree of the year](http://www.stadt-muenster.de/umwelt/baeume/baum-des-jahres.html)
+![oak](images/oak.png)|[Common trees in Münster](http://www.stadt-muenster.de/umwelt/baeume/stadtbaeume.html) Linde (24%), oak (21%), maple (14%), hornbeam (8%), plane (5%).
 ![interactivetreemap](images/treesmunster.jpg)|[Tree's Location map](http://geo.stadt-muenster.de/webgis2/frames/index.php?PHPSESSID=b6c53b7ac9d4af705616d2bc85de9f30&gui_id=Umweltkataster),[Office of green space, the environment and sustainability](http://www.muenster.de/stadt/umwelt/schutzgebiete_naturdenkmale.html)
+![interactivetreemap](images/treemonument.png)|[Monument trees in Münster](http://www.stadt-muenster.de/umwelt/natur-und-landschaft/schutzgebiete-naturdenkmale/naturdenkmale.html)
 
 
 
@@ -36,6 +38,7 @@ Image <width="1500"/> | Description
 ## Endangered Species
 
 
+
 # Waste Management
 
 * [Actors & initiatives in Münster](http://awm.stadt-muenster.de/abfallvermeidung/muenster-isst-abfallarm/akteure-und-initiativen.html)
@@ -44,6 +47,13 @@ Image <width="1500"/> | Description
 
 # Renewable Energy
 * [Renewable Energy in Münster](http://www.stadt-muenster.de/klima/bauen-sanieren.html)
+
+# Green City
+## Münster
+
+* [Green Virtual Tour](http://www.muenster.de/stadt/medien/virtual-tour.html)
+* [Nature Reserves](http://www.stadt-muenster.de/umwelt/natur-und-landschaft/schutzgebiete-naturdenkmale/naturschutzgebiete.html) 15 conservation areas - 2,100 hectares
+* [Landscape Protection Areas](http://www.stadt-muenster.de/umwelt/natur-und-landschaft/schutzgebiete-naturdenkmale/landschaftsschutzgebiete.html) 9 areas with 9,900 hectares
 
 
 # License
